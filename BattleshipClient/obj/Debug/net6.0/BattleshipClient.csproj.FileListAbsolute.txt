@@ -1,0 +1,15 @@
+/root/retele/BattleshipClient/bin/Debug/net6.0/BattleshipClient
+/root/retele/BattleshipClient/bin/Debug/net6.0/BattleshipClient.deps.json
+/root/retele/BattleshipClient/bin/Debug/net6.0/BattleshipClient.runtimeconfig.json
+/root/retele/BattleshipClient/bin/Debug/net6.0/BattleshipClient.dll
+/root/retele/BattleshipClient/bin/Debug/net6.0/ref/BattleshipClient.dll
+/root/retele/BattleshipClient/bin/Debug/net6.0/BattleshipClient.pdb
+/root/retele/BattleshipClient/obj/Debug/net6.0/BattleshipClient.csproj.AssemblyReference.cache
+/root/retele/BattleshipClient/obj/Debug/net6.0/BattleshipClient.GeneratedMSBuildEditorConfig.editorconfig
+/root/retele/BattleshipClient/obj/Debug/net6.0/BattleshipClient.AssemblyInfoInputs.cache
+/root/retele/BattleshipClient/obj/Debug/net6.0/BattleshipClient.AssemblyInfo.cs
+/root/retele/BattleshipClient/obj/Debug/net6.0/BattleshipClient.csproj.CoreCompileInputs.cache
+/root/retele/BattleshipClient/obj/Debug/net6.0/BattleshipClient.dll
+/root/retele/BattleshipClient/obj/Debug/net6.0/ref/BattleshipClient.dll
+/root/retele/BattleshipClient/obj/Debug/net6.0/BattleshipClient.pdb
+/root/retele/BattleshipClient/obj/Debug/net6.0/BattleshipClient.genruntimeconfig.cache
